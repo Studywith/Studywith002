@@ -1,0 +1,36 @@
+{
+    "plugins": [ 
+    "theme-default",
+    "multimedia",
+    "ga",
+    "baidu",
+    "changyan-ng",
+    "sectionx",
+    "back-to-top-button"
+     ],
+    "pluginsConfig": {
+        "theme-default": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
+        },
+        "ga": {
+            "token": "UA-92168158-3"
+        },
+        "changyan": {
+            "appid": "cyteOk5Ab",
+            "conf": "prod_f58b10a96f78d90e9937a9370004e3ed"
+        },
+        "sectionx": {
+            "tag": "h6"
+        }
+    }
+}
