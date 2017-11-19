@@ -116,7 +116,7 @@
 
 到现在为止，以上行业中，管理咨询渐渐光环褪去，金融和地产也在往下的周期。医生在可以预见的未被人工智能淘汰之前都会很好。互联网最近每年都有大批劳动力进入市场，估计还有最后几年的好光景。
 
-<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section7" data-show=true ces-->
 
 #### 程序员薪资的关键要素
 
@@ -126,11 +126,11 @@
 
 最近最火的是前端WEB，再往前是移动端开发，再往前是这里面很短的Java，那么一个曾经的Java工程师，怎么让自己在工作中转而进行web前端开发呢？其实他们不能，新毕业的人工资高于已经有工作经历的就是这个行业一个令人费解的事情，所以工作的稳定性是个比我们想象中复杂的事。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section88" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section88" data-show=false ces-->
 
 #### 内容节选：
 
