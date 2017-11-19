@@ -24,8 +24,7 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 
 无论如何，至少Studywith会教出我自己这个成功的例子，但我更希望你们能够和我一起。
 
-[点击阅读我对于Studywith的思考：在极忆七周年这天，我们邀请你加入一场大学通识教育的试验](https://mp.weixin.qq.com/s/nwowklKWSIUluTB_28kklw)
-
+[点击阅读我对于Studywith的思考](https://mp.weixin.qq.com/s/nwowklKWSIUluTB_28kklw)
 
 ### Study Why？
 
@@ -88,5 +87,5 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 * 文化文明及其载体
 * 美学与艺术世界
 
-
 ![](/assets/Studywith介绍图.png)
+
