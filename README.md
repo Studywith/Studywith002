@@ -10,7 +10,7 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 
 这就是Studywith™这个产品的初衷了，那么是Study With Who呢？是Study With沈书涵，也是Study With each other.
 
-<!--sec data-title="沈书涵是谁？" data-id="section1" data-show=true ces-->
+### 沈书涵是谁？
 
 一个没有选择去接受体制内大学教育的95后。
 
@@ -24,14 +24,7 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 
 无论如何，至少Studywith会教出我自己这个成功的例子，但我更希望你们能够和我一起。
 
-<button class="section" target="section9" show="[阅读我对于Studywith的思考](https://mp.weixin.qq.com/s/nwowklKWSIUluTB_28kklw)"></button>
-
-
-<!--endsec-->
-
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section2" data-show=false ces-->
-
-
+[点击阅读我对于Studywith的思考：在极忆七周年这天，我们邀请你加入一场大学通识教育的试验](https://mp.weixin.qq.com/s/nwowklKWSIUluTB_28kklw)
 
 ### Study Why？
 
