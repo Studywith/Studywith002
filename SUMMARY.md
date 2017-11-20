@@ -20,8 +20,8 @@
 ## Day2 大学与大学生活方式
 
 * [Day2-1 基本逻辑](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-1-ji-ben-luo-ji.md)
-* Day2-2 有什么大学特殊的东西其实并不特殊
-* Day2-3 大学生活方式的特殊性是什么
-* Day2-4 大学生活最可贵的核心
-* Day2-5 总结：退学的理性决定
+* [Day2-2 有什么大学特殊的东西其实并不特殊](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-2-you-shi-yao-da-xue-te-shu-de-dong-xi-qi-shi-bing-bu-te-shu.md)
+* [Day2-3 大学生活方式的特殊性是什么](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-3-da-xue-sheng-huo-fang-shi-de-te-shu-xing-shi-shi-yao.md)
+* [Day2-4 大学生活最可贵的核心](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-4-da-xue-sheng-huo-zui-ke-gui-de-he-xin.md)
+* [Day2-5 总结：退学的理性决定](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-5-zong-jie-ff1a-tui-xue-de-li-xing-jue-ding.md)
 
