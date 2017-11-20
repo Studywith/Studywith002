@@ -17,3 +17,11 @@
 * [Day1-5 进入社会后的学习是什么样的](day1-zhi-ye-yu-da-xue-xuan-ze/day1-5-jin-ru-she-hui-hou-de-xue-xi-shi-shi-yao-yang-de.md)
 * [Day1-6 总结：今日内容可以获得的一些思维逻辑](day1-zhi-ye-yu-da-xue-xuan-ze/day1-6-zong-jie-ff1a-jin-ri-nei-rong-ke-yi-huo-de-de-yi-xie-si-wei-luo-ji.md)
 
+## Day2 大学与大学生活方式
+
+* [Day2-1 基本逻辑](day2-da-xue-yu-da-xue-sheng-huo-fang-shi/day2-1-ji-ben-luo-ji.md)
+* Day2-2 有什么大学特殊的东西其实并不特殊
+* Day2-3 大学生活方式的特殊性是什么
+* Day2-4 大学生活最可贵的核心
+* Day2-5 总结：退学的理性决定
+
