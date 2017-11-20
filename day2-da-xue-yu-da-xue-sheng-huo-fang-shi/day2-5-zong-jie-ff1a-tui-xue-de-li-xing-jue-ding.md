@@ -21,6 +21,11 @@
 * 有支撑在所在城市租房的基本财力
 * 符合了DAY2-3的全部条件
 
+##### QUESTION Layer1: 
+怎么样！退学吗？
+##### QUESTION Layer2: 
+路径1和路径2中的所有条件，你现在有没有哪一条或几条已经达成了。
+
 {% enableComment %}
 
 {% endenableComment %}
